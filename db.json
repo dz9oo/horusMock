@@ -4,13 +4,22 @@
       "id": 1,
       "lat": 50.5443,
       "long": 3.0885,
-      "timestamp": "2020-09-01:8h20"
+      "timestamp": "2020-09-01:8h20",
+      "bwName": "UL 700MHz"
     },
     {
-      "id": 1,
+      "id": 2,
       "lat": 50.544,
       "long": 3.0882,
-      "timestamp": "2020-09-01:8h20"
+      "timestamp": "2020-09-01:8h20",
+      "bwName": "DL 800MHz"
+    },
+    {
+      "id": 3,
+      "lat": 50.544,
+      "long": 3.0882,
+      "timestamp": "2020-09-01:8h20",
+      "bwName": "DL 1800MHz"
     }
   ]
 }
