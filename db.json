@@ -2,43 +2,43 @@
   "targets": [
     {
       "id": 1,
-      latLng: {
-        lat: 50.5443,
-        lng: 3.0885,
+      "latLng": {
+        "lat": 50.5443,
+        "lng": 3.0885,
       },
-      bwName: "UL 900MHz",
-      priority: 1,
-      radiusZone: 3,
+      "bwName": "UL 900MHz",
+      "priority": 1,
+      "radiusZone": 3,
     },
     {
       "id": 2,
-      latLng: {
-        lat: 50.5443,
-        lng: 3.0885,
+      "latLng": {
+        "lat": 50.5443,
+        "lng": 3.0885,
       },
-      bwName: "UL 1800MHz",
-      priority: 2,
-      radiusZone: 10,
+      "bwName": "UL 1800MHz",
+      "priority": 2,
+      "radiusZone": 10,
     },
     {
       "id": 3,
-      latLng: {
-        lat: 50.5443,
-        lng: 3.0885,
+      "latLng": {
+        "lat": 50.5443,
+        "lng": 3.0885,
       },
-      bwName: "UL 700MHz",
-      priority: 1,
-      radiusZone: 3,
+      "bwName": "UL 700MHz",
+      "priority": 1,
+      "radiusZone": 3,
     },
      {
       "id": 4,
-      latLng: {
-        lat: 50.5443,
-        lng: 3.0885,
+      "latLng": {
+        "lat": 50.5443,
+        "lng": 3.0885,
       },
-      bwName: "DL 900MHz",
-      priority: 1,
-      radiusZone: 3,
+      "bwName": "DL 900MHz",
+      "priority": 1,
+      "radiusZone": 3,
     },
   ]
 }
