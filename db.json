@@ -3,11 +3,11 @@
     {
       "id": 1,
       "latLng": {
-        "lat": 50.5443,
+        "lat": 50.5445,
         "lng": 3.0885
       },
       "bwName": "UL 900MHz",
-      "priority": 1,
+      "priority": 3,
       "radiusZone": 3
     },
     {
