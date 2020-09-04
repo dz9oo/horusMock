@@ -6,7 +6,7 @@
         "lat": 50.5445,
         "lng": 3.0885
       },
-      "bwName": "UL 900MHz",
+      "bwName": "<h3>UL 900MHz</h3>",
       "priority": 3,
       "radiusZone": 3
     },
@@ -16,7 +16,7 @@
         "lat": 50.5443,
         "lng": 3.0885
       },
-      "bwName": "UL 1800MHz",
+      "bwName": "<h3>UL 1800MHz</h3>",
       "priority": 2,
       "radiusZone": 10
     },
@@ -26,7 +26,7 @@
         "lat": 50.5443,
         "lng": 3.0885
       },
-      "bwName": "UL 700MHz",
+      "bwName": "<h3>UL 700MHz</h3>",
       "priority": 1,
       "radiusZone": 3
     },
@@ -36,7 +36,7 @@
         "lat": 50.5443,
         "lng": 3.0885
       },
-      "bwName": "DL 900MHz",
+      "bwName": "<h3>DL 900MHz</h3>",
       "priority": 1,
       "radiusZone": 3
     }
